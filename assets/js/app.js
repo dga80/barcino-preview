@@ -52,9 +52,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const id = sec.getAttribute('id');
 
             if (scrolled >= top && scrolled < top + height) {
+                const targetId = (id === 'team') ? 'about' : id;
                 document.querySelectorAll('.navbar-desktop .nav-item').forEach(link => {
                     link.classList.remove('active');
-                    if (link.getAttribute('href') === `#${id}`) {
+                    if (link.getAttribute('href') === `#${targetId}`) {
                         link.classList.add('active');
                     }
                 });
