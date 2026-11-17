@@ -21,6 +21,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    -webkit-tap-highlight-color: transparent;
 }
 
 html {
@@ -176,6 +177,18 @@ header {
     flex-direction: column;
     gap: 4px;
     width: 38px;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.menu-trigger:focus,
+.menu-trigger:focus-visible,
+.menu-trigger:active {
+    outline: none;
+    box-shadow: none;
 }
 
 .menu-trigger span {
@@ -273,6 +286,17 @@ header {
     transform: translate(-30px, -30px);
     transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.floating-corner-btn:focus,
+.floating-corner-btn:focus-visible,
+.floating-corner-btn:active {
+    outline: none;
 }
 
 .floating-corner-btn.visible {
@@ -346,6 +370,18 @@ header {
     padding: 1.5rem 0 0 1.5rem;
     cursor: pointer;
     border: none;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.side-drawer-close:focus,
+.side-drawer-close:focus-visible,
+.side-drawer-close:active {
+    outline: none;
+    box-shadow: none;
 }
 
 .side-drawer-close span {
