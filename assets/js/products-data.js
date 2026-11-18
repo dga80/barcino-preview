@@ -226,6 +226,112 @@ const PRODUCTS = [
     },
 
     /* ==========================================================================
+       YOUNG BULL (Añojo / Ternera Joven)
+       ========================================================================== */
+    {
+        id: "young-bull-ribeye",
+        category: "young-bull",
+        title: "Ribeye / Cube Roll (Lomo Alto)",
+        description: "Premium young bull ribeye selected for exceptional marbling and tenderness · Fresh & Frozen",
+        thumb: "assets/img/products/young-bull/RIBEYE_4.jpg",
+        gallery: [
+            "assets/img/products/young-bull/RIBEYE_4.jpg"
+        ]
+    },
+    {
+        id: "young-bull-knuckle",
+        category: "young-bull",
+        title: "Knuckle / Thick Flank (Babilla)",
+        description: "Lean, boneless young bull knuckle trimmed to premium wholesale grade · Fresh & Frozen",
+        thumb: "assets/img/products/young-bull/KNUCKLE.jpg",
+        gallery: [
+            "assets/img/products/young-bull/KNUCKLE.jpg"
+        ]
+    },
+    {
+        id: "young-bull-striploin",
+        category: "young-bull",
+        title: "Striploin / Sirloin (Lomo Bajo)",
+        description: "Prime young bull striploin with consistent fat cover and balanced marbling · Fresh & Frozen",
+        thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.13.jpg",
+        gallery: [
+            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.13.jpg"
+        ]
+    },
+    {
+        id: "young-bull-tenderloin",
+        category: "young-bull",
+        title: "Tenderloin / Filet (Solomillo)",
+        description: "Center-cut tender young bull tenderloin primal · Maximum tenderness and delicate flavor",
+        thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 - copia.jpg",
+        gallery: [
+            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 - copia.jpg"
+        ]
+    },
+    {
+        id: "young-bull-topside",
+        category: "young-bull",
+        title: "Topside / Inside Round (Tapa)",
+        description: "Uniform boneless young bull topside cut, lean and versatile for slicing · Fresh & Frozen",
+        thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 (2) - copia.jpg",
+        gallery: [
+            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 (2) - copia.jpg"
+        ]
+    },
+    {
+        id: "young-bull-silverside",
+        category: "young-bull",
+        title: "Silverside / Outside Flat (Contra)",
+        description: "Lean, firm young bull silverside flat primal for curing, roasting and manufacturing",
+        thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 (3) - copia.jpg",
+        gallery: [
+            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.14 (3) - copia.jpg"
+        ]
+    },
+    {
+        id: "young-bull-rump",
+        category: "young-bull",
+        title: "Rump / Heart of Rump (Cadera)",
+        description: "Tender, robust young bull rump cut selected for premium steaks and roasts · Fresh & Frozen",
+        thumb: "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.15 - copia.jpg",
+        gallery: [
+            "assets/img/products/young-bull/WhatsApp Image 2026-10-01 at 16.56.15 - copia.jpg"
+        ]
+    },
+    {
+        id: "young-bull-chuck",
+        category: "young-bull",
+        title: "Chuck / Neck Roll (Aguja)",
+        description: "Flavorful boneless young bull chuck cut ideal for braising and roasting · Fresh & Frozen",
+        thumb: "assets/img/products/young-bull/CHUCK 6.8 KG - 2_horizontal_cw.jpg",
+        gallery: [
+            "assets/img/products/young-bull/CHUCK 6.8 KG - 2_horizontal_cw.jpg",
+            "assets/img/products/young-bull/CHUCK 6.8 KG - 2.jpg"
+        ]
+    },
+    {
+        id: "young-bull-brisket",
+        category: "young-bull",
+        title: "Brisket Point End (Pecho)",
+        description: "Point end beef brisket with natural fat cover for smoking and slow roasting · Fresh & Frozen",
+        thumb: "assets/img/products/young-bull/BRISKET POINT END - 2.jpg",
+        gallery: [
+            "assets/img/products/young-bull/BRISKET POINT END - 2.jpg"
+        ]
+    },
+    {
+        id: "young-bull-heel-muscle",
+        category: "young-bull",
+        title: "Heel Muscle / Shank (Morcillo / Jarrete)",
+        description: "Gelatin-rich young bull shank cut perfect for traditional stews and braises · Fresh & Frozen",
+        thumb: "assets/img/products/young-bull/HEEL MUSCLE_1_horizontal_cw.jpg",
+        gallery: [
+            "assets/img/products/young-bull/HEEL MUSCLE_1_horizontal_cw.jpg",
+            "assets/img/products/young-bull/HEEL MUSCLE_1.jpg"
+        ]
+    },
+
+    /* ==========================================================================
        OTM BEEF (Over Thirty Months)
        ========================================================================== */
     {
