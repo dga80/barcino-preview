@@ -324,9 +324,8 @@ const PRODUCTS = [
         category: "young-bull",
         title: "Heel Muscle / Shank (Morcillo / Jarrete)",
         description: "Gelatin-rich young bull shank cut perfect for traditional stews and braises · Fresh & Frozen",
-        thumb: "assets/img/products/young-bull/HEEL MUSCLE_1_horizontal_cw.jpg",
+        thumb: "assets/img/products/young-bull/HEEL MUSCLE_1.jpg",
         gallery: [
-            "assets/img/products/young-bull/HEEL MUSCLE_1_horizontal_cw.jpg",
             "assets/img/products/young-bull/HEEL MUSCLE_1.jpg"
         ]
     },
