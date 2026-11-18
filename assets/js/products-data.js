@@ -58,7 +58,7 @@ const PRODUCTS = [
     {
         id: "belly-bone-in-rind-on",
         category: "pork",
-        title: "Belly Bone in Rind On",
+        title: "Belly Bone in Rind On (Panceta con Hueso y Piel)",
         description: "Bone-in pork belly with skin on · Fresh & Frozen",
         thumb: "assets/img/products/pork/01_bellybone/bellyBoneRindOn.jpg",
         gallery: [
@@ -73,7 +73,7 @@ const PRODUCTS = [
     {
         id: "boneless-collar",
         category: "pork",
-        title: "Boneless Collar",
+        title: "Boneless Collar (Aguja sin Hueso)",
         description: "Trimmed boneless pork collar · Fresh & Frozen",
         thumb: "assets/img/products/pork/02_boneless/bonelesscollar.jpg",
         gallery: [
@@ -85,7 +85,7 @@ const PRODUCTS = [
     {
         id: "boneless-pork-belly-without-skin",
         category: "pork",
-        title: "Boneless Pork Belly Without Skin",
+        title: "Boneless Pork Belly Without Skin (Panceta sin Hueso ni Piel)",
         description: "Rindless, boneless pork belly cut · Fresh & Frozen",
         thumb: "assets/img/products/pork/03_bonelessPorkBellyWithoutSkin/bonelessPorkBellyWithoutSkin-1.jpg",
         gallery: [
@@ -97,7 +97,7 @@ const PRODUCTS = [
     {
         id: "slipper",
         category: "pork",
-        title: "Slipper / Boomerang",
+        title: "Slipper / Boomerang (Corte de Jamón / Boomerang)",
         description: "Specialty pork cut trimmed to specification",
         thumb: "assets/img/products/pork/04_boomerang/boomerang.jpg",
         gallery: [
@@ -108,7 +108,7 @@ const PRODUCTS = [
     {
         id: "ham-4d-tunnel-boned-with-fat-cover",
         category: "pork",
-        title: "Ham 4D Tunnel Boned With Fat Cover",
+        title: "Ham 4D Tunnel Boned With Fat Cover (Jamón 4D Deshuesado con Grasa)",
         description: "4D tunnel-boned pork leg with external fat cover",
         thumb: "assets/img/products/pork/05_ham4d/ham4dtunnelbonedwithfatcover-1.jpg",
         gallery: [
@@ -120,7 +120,7 @@ const PRODUCTS = [
     {
         id: "horse-shoe",
         category: "pork",
-        title: "Horse Shoe",
+        title: "Horse Shoe (Jamón Herradura)",
         description: "Horseshoe gammon / pork leg cut · Export grade",
         thumb: "assets/img/products/pork/06_horseshoe/horseshoe-1.jpg",
         gallery: [
@@ -132,7 +132,7 @@ const PRODUCTS = [
     {
         id: "loin-rindless",
         category: "pork",
-        title: "Loin Rindless",
+        title: "Loin Rindless (Lomo Deshuesado sin Piel)",
         description: "Boneless, skinless pork loin primal cut",
         thumb: "assets/img/products/pork/07_loinRindless/loinrindless-1.jpg",
         gallery: [
@@ -144,7 +144,7 @@ const PRODUCTS = [
     {
         id: "3d-shoulder",
         category: "pork",
-        title: "3D Shoulder (Bone-in With Fat)",
+        title: "3D Shoulder, Bone-in With Fat (Paleta 3D con Hueso y Grasa)",
         description: "Pork shoulder cut with fat cover · Fresh & Frozen",
         thumb: "assets/img/products/pork/08_pala4d/bone-inPorkShoulderWithFat-1.jpg",
         gallery: [
@@ -156,7 +156,7 @@ const PRODUCTS = [
     {
         id: "pork-loin-without-skin",
         category: "pork",
-        title: "Pork Loin Without Skin",
+        title: "Pork Loin Without Skin (Lomo de Cerdo sin Piel)",
         description: "Trimmed skinless pork loin · Custom specification",
         thumb: "assets/img/products/pork/10_porkLoinWithoutskin/porkLoinWithoutSkin-1.jpg",
         gallery: [
@@ -168,7 +168,7 @@ const PRODUCTS = [
     {
         id: "pork-loin-with-skin",
         category: "pork",
-        title: "Pork Loin With Skin",
+        title: "Pork Loin With Skin (Lomo de Cerdo con Piel)",
         description: "Rind-on pork loin primal · Fresh & Frozen",
         thumb: "assets/img/products/pork/11_porkLoinWithSkin/porkLoinWithSkin-1.jpg",
         gallery: [
@@ -180,7 +180,7 @@ const PRODUCTS = [
     {
         id: "pork-neck",
         category: "pork",
-        title: "Pork Neck",
+        title: "Pork Neck (Cuello / Aguja de Cerdo)",
         description: "Well-marbled pork neck primal cut",
         thumb: "assets/img/products/pork/12_porkneck/porkneck.jpg",
         gallery: [
@@ -191,7 +191,7 @@ const PRODUCTS = [
     {
         id: "rind-on-back",
         category: "pork",
-        title: "Rind On Back",
+        title: "Rind On Back (Lomo / Chuleta con Piel)",
         description: "Pork back cut with skin on · Export quality",
         thumb: "assets/img/products/pork/13_rindOnBack/rindOnBack-1.jpg",
         gallery: [
@@ -203,7 +203,7 @@ const PRODUCTS = [
     {
         id: "skinless-back",
         category: "pork",
-        title: "Skinless Back",
+        title: "Skinless Back (Lomo / Chuleta sin Piel)",
         description: "Trimmed rindless pork back cut",
         thumb: "assets/img/products/pork/14_skinless back/skinless-back_1.jpg",
         gallery: [
@@ -215,7 +215,7 @@ const PRODUCTS = [
     {
         id: "tender-loin",
         category: "pork",
-        title: "Tender Loin",
+        title: "Tender Loin (Solomillo)",
         description: "Whole trimmed pork tenderloin fillet",
         thumb: "assets/img/products/pork/15_tenderloin/tenderloin-2.jpg",
         gallery: [
