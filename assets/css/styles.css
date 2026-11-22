@@ -940,6 +940,14 @@ header {
     margin-top: 0.35rem;
 }
 
+.product-desc b,
+.product-desc strong,
+.product-modal-desc b,
+.product-modal-desc strong {
+    font-weight: 700;
+    color: #ffffff;
+}
+
 /* ==========================================================================
    NEWS SECTION (AUTOGESTIONABLE)
    ========================================================================== */

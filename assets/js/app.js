@@ -199,7 +199,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function openProductModal(prod) {
         productModalTitle.textContent = prod.title;
         if (productModalDesc) {
-            productModalDesc.textContent = prod.description || '';
+            productModalDesc.innerHTML = prod.description || '';
         }
         currentSlide = 0;
         totalSlides = prod.gallery.length;
