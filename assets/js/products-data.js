@@ -224,6 +224,17 @@ const PRODUCTS = [
             "assets/img/products/pork/15_tenderloin/tenderloin-4.jpg"
         ]
     },
+    {
+        id: "pepperoni-slices",
+        category: "pork",
+        title: "Pepperoni Slices (Pepperoni / Embutido Curado)",
+        description: "Cured and spiced pork pepperoni slices for pizza, foodservice and retail · Manufacturer: Intermeat",
+        thumb: "assets/img/products/intermeat/pepperoni.jpg",
+        gallery: [
+            "assets/img/products/intermeat/pepperoni.jpg"
+        ],
+        manufacturer: "Intermeat"
+    },
 
     /* ==========================================================================
        YOUNG BULL (Añojo / Ternera Joven)
@@ -413,6 +424,17 @@ const PRODUCTS = [
             "assets/img/products/otm-beef/50 - Pecho.jpg"
         ]
     },
+    {
+        id: "otm-minced-beef",
+        category: "otm-beef",
+        title: "Minced Beef (Carne Picada de Vacuno)",
+        description: "Premium minced beef prepared to specification · Fresh & Frozen wholesale · Manufacturer: Intermeat",
+        thumb: "assets/img/products/intermeat/mince-beef.jpg",
+        gallery: [
+            "assets/img/products/intermeat/mince-beef.jpg"
+        ],
+        manufacturer: "Intermeat"
+    },
 
     /* ==========================================================================
        PIGLETS (Authentic Spanish Suckling Pig / Cochinillo)
@@ -573,5 +595,42 @@ const PRODUCTS = [
             "assets/img/products/piglets/Preasado/Packaging/lata cochinillo al momento.jpg",
             "assets/img/products/piglets/Preasado/Producto/lata cochinillo al momento 2.jpg"
         ]
+    },
+
+    /* ==========================================================================
+       PULLED MEATS & PREPARED SPECIALTIES (Carnes Deshilachadas y Elaborados)
+       ========================================================================== */
+    {
+        id: "pulled-pork",
+        category: "pulled-meats",
+        title: "Slow-Cooked Pulled Pork (Cerdo Deshilachado)",
+        description: "Tender, slow-cooked shredded pork for burgers, tacos & catering · Manufacturer: Intermeat",
+        thumb: "assets/img/products/intermeat/pulled-pork.jpg",
+        gallery: [
+            "assets/img/products/intermeat/pulled-pork.jpg"
+        ],
+        manufacturer: "Intermeat"
+    },
+    {
+        id: "pulled-chicken",
+        category: "pulled-meats",
+        title: "Slow-Cooked Pulled Chicken (Pollo Deshilachado)",
+        description: "Slow-cooked seasoned shredded chicken breast & thigh for foodservice · Manufacturer: Intermeat",
+        thumb: "assets/img/products/intermeat/pulled-chicken.jpg",
+        gallery: [
+            "assets/img/products/intermeat/pulled-chicken.jpg"
+        ],
+        manufacturer: "Intermeat"
+    },
+    {
+        id: "chicken-kebab",
+        category: "pulled-meats",
+        title: "Chicken Kebab Slices (Kebab de Pollo)",
+        description: "Roasted and seasoned sliced chicken kebab meat for wraps & street food · Manufacturer: Intermeat",
+        thumb: "assets/img/products/intermeat/chicken-kebab.jpg",
+        gallery: [
+            "assets/img/products/intermeat/chicken-kebab.jpg"
+        ],
+        manufacturer: "Intermeat"
     }
 ];
