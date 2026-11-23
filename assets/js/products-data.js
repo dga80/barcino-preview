@@ -224,17 +224,6 @@ const PRODUCTS = [
             "assets/img/products/pork/15_tenderloin/tenderloin-4.jpg"
         ]
     },
-    {
-        id: "pepperoni-slices",
-        category: "pork",
-        title: "Pepperoni Slices (Pepperoni / Embutido Curado)",
-        description: "Cured and spiced pork pepperoni slices for pizza, foodservice and retail · Manufacturer: <b>Intermeat</b>",
-        thumb: "assets/img/products/intermeat/pepperoni.jpg",
-        gallery: [
-            "assets/img/products/intermeat/pepperoni.jpg"
-        ],
-        manufacturer: "Intermeat"
-    },
 
     /* ==========================================================================
        YOUNG BULL (Añojo / Ternera Joven)
@@ -423,17 +412,6 @@ const PRODUCTS = [
         gallery: [
             "assets/img/products/otm-beef/50 - Pecho.jpg"
         ]
-    },
-    {
-        id: "otm-minced-beef",
-        category: "otm-beef",
-        title: "Minced Beef (Carne Picada de Vacuno)",
-        description: "Premium minced beef prepared to specification · Fresh & Frozen wholesale · Manufacturer: <b>Intermeat</b>",
-        thumb: "assets/img/products/intermeat/mince-beef.jpg",
-        gallery: [
-            "assets/img/products/intermeat/mince-beef.jpg"
-        ],
-        manufacturer: "Intermeat"
     },
 
     /* ==========================================================================
@@ -630,6 +608,28 @@ const PRODUCTS = [
         thumb: "assets/img/products/intermeat/chicken-kebab.jpg",
         gallery: [
             "assets/img/products/intermeat/chicken-kebab.jpg"
+        ],
+        manufacturer: "Intermeat"
+    },
+    {
+        id: "pepperoni-slices",
+        category: "pulled-meats",
+        title: "Pepperoni Slices (Pepperoni / Embutido Curado)",
+        description: "Cured and spiced pork pepperoni slices for pizza, foodservice and retail · Manufacturer: <b>Intermeat</b>",
+        thumb: "assets/img/products/intermeat/pepperoni.jpg",
+        gallery: [
+            "assets/img/products/intermeat/pepperoni.jpg"
+        ],
+        manufacturer: "Intermeat"
+    },
+    {
+        id: "minced-beef",
+        category: "pulled-meats",
+        title: "Minced Beef (Carne Picada de Vacuno)",
+        description: "Premium minced beef prepared to specification · Fresh & Frozen wholesale · Manufacturer: <b>Intermeat</b>",
+        thumb: "assets/img/products/intermeat/mince-beef.jpg",
+        gallery: [
+            "assets/img/products/intermeat/mince-beef.jpg"
         ],
         manufacturer: "Intermeat"
     }
